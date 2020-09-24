@@ -1,0 +1,25 @@
+Psuedocode
+
+initialize int[] scoresArray with 100000 empty indexes
+initialize ints winCount, lossCount, die1, die2, roundTotal, firstRoll
+
+FOR LOOP runs until the end of scoresArray is reached:
+	
+	Set diceOne and diceTwo to random numbers between 1 and 6
+	
+	IF i == 0 (is this the first roll):
+		
+		firstRoll = die1 + die2
+		
+		IF firstRoll is 7 or 11:
+		
+			
+		
+	ELSE:
+		
+		
+		
+		
+Questions
+
+	- Is it 100,000 rounds or 100,000 printed lines?
